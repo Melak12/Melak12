@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Melak12
-- 👀 I’m interested in Flutter, React, NEXT JS, NEST JS
+- 👀 I’m interested in Flutter, React, NEXT JS, NEST JS, and Vue
 - 🌱 I’m currently learning WEB3 and Blockhain
 - 💞️ I’m looking to collaborate on any project that push me to the next level
 - 📫 How to reach me : wubshetmelake@gmail.com
