@@ -28,8 +28,6 @@ I started my professional programming journey in 2016 when I graduated from AAiT
   
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<h3> 😂 Random Dev Meme </h3>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Melak12&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
