@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 💫 About Me:</h1>
-I started my professional programming journey in 2016 when I graduated from AAiT in Software Engineering. I was more like fousing on ASP.NET and .NET Core technologies in the early stage but gradually shifted my skillset to the javascript world. I started the web frontend framework with Vue js and have been a big fan of it. Recently, I've shifted myself to React world which seems very stable and comfirtable to me. Ofcourse, I'm also bad a** on Flutter mobile app development. I've publshied more than 5 app to different clients.
+I am a full-stack MERN and Flutter Mobile App developer. I do have exceptional passion to technology and coding. As a self-determined and motivated individual that loves to connect and work with others, I have contributed to the success of many individual and team projects. I'm always learning and catching up the new technology trends. 
 </div>
 
 
