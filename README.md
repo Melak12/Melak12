@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 💫 About Me:</h1>
-I am a full-stack MERN and Flutter Mobile App developer. I do have exceptional passion to technology and coding. As a self-determined and motivated individual that loves to connect and work with others, I have contributed to the success of many individual and team projects. I'm always learning and catching up the new technology trends. 
+I am a full-stack MERN and Flutter Mobile App developer with 6 years of professional experience. I do have an exceptional passion for technology and coding. As a self-determined and motivated individual that loves to connect and work with others, I have contributed to the success of many individual and team projects. I'm always learning and catching up the new technology trends.
 </div>
 
 
