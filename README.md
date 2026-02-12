@@ -1,18 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Melak+Wubshet+%F0%9F%90%B1%E2%80%8D%E2%AC%9B;Full-Stack+%26+Mobile+Developer;6%2B+years+crafting+awesome+apps;Let's+build+something+cool+together!" alt="Typing SVG" />
-</div>
-
-<br />
 
 <div align="center">
   <h3>🚀 About Me</h3>
   <p>
     Passionate full-stack developer who lives for turning ideas into pixel-perfect, performant reality.<br />
-    I specialize in <strong>MERN</strong> ecosystems and <strong>Flutter</strong> mobile magic — delivering seamless web & cross-platform mobile experiences.
+    I specialize in full-stack engineering with <strong>React</strong>, <strong>Next.js</strong>, <strong>Nest.js</strong>, <strong>Postgresql</strong> and <strong>Flutter</strong> mobile magic — delivering seamless web & cross-platform mobile experiences.     <br/>
+    I am also unapologetically obbssed with AI, Agentic AI, RAG, and Context Engineering. 
   </p>
 
   <p>
-    <em>6+ years</em> shipping production apps, collaborating with teams & solo founders, and geeking out over clean architecture, performance, and the newest tools that actually move the needle.
+    <em>8+ years</em> shipping production apps, collaborating with teams & solo founders, and geeking out over clean architecture, performance, and the newest tools that actually move the needle.
   </p>
 
   <p>
@@ -56,30 +52,7 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-<br />
-
-<div align="center">
-  <h3>📊 GitHub Activity</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Melak12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melak12&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-
-  <br /><br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melak12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>✨ Random Dev Wisdom</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Melak12&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
+e%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </div>
 
 <div align="center">
