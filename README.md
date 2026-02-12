@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-e%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </div>
 
 <div align="center">
