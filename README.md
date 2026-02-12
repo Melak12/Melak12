@@ -4,7 +4,7 @@
   <p>
     Passionate full-stack developer who lives for turning ideas into pixel-perfect, performant reality.<br />
     I specialize in full-stack engineering with <strong>React</strong>, <strong>Next.js</strong>, <strong>Nest.js</strong>, <strong>Postgresql</strong> and <strong>Flutter</strong> mobile magic — delivering seamless web & cross-platform mobile experiences.     <br/>
-    I am also unapologetically obbssed with AI, Agentic AI, RAG, and Context Engineering. 
+    I am also unapologetically obssessed with AI, Agentic AI, RAG, and Context Engineering. 
   </p>
 
   <p>
